@@ -1,6 +1,6 @@
 The documentation and installation guide is here:
 
-https://fish-resistance-484.notion.site/One-Click-Scene-Importer-V0-1-f90e033ef88d42caa17dfbb0cc7d8182
+http://one-click-scene-importer.notion.site
 
 please follow the instruction within.
 
